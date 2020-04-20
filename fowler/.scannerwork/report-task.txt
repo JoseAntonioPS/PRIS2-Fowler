@@ -1,0 +1,7 @@
+organization=joseantoniops
+projectKey=PRIS2-Fowler
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6982
+dashboardUrl=https://sonarcloud.io/dashboard?id=PRIS2-Fowler
+ceTaskId=AXGZTPDnmS41xbqGy4wO
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXGZTPDnmS41xbqGy4wO
